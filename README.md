@@ -7,5 +7,5 @@ sudo apt install ruby-full
 
 Install `fpm` via `gem`:
 ```bash
-gem install fpm
+sudo gem install fpm
 ```
