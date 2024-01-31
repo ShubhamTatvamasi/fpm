@@ -2,7 +2,7 @@
 
 Install Ruby:
 ```bash
-sudo apt install ruby-full
+sudo apt install make rpm ruby-full
 ```
 
 Install `fpm` via `gem`:
